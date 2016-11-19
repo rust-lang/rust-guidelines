@@ -1,3 +1,3 @@
-# THIS REPOSITORY HAS MOVED
+# THIS REPOSITORY HAS DISCONTINUED
 
-Please see the [src/doc/style](https://github.com/rust-lang/rust/tree/master/src/doc/style) subdirectory of [https://github.com/rust-lang/rust/](https://github.com/rust-lang/rust/)
+Please see the new [Style Guidelines](https://doc.rust-lang.org/1.12.0/style/README.html) and the corresponding [fmt-rfcs](https://github.com/rust-lang-nursery/fmt-rfcs) repository.
